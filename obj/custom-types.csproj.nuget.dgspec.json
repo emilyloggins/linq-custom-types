@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/custom-types.csproj": {}
+  },
+  "projects": {
+    "/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/custom-types.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/custom-types.csproj",
+        "projectName": "custom-types",
+        "projectPath": "/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/custom-types.csproj",
+        "packagesPath": "/Users/emilyloggins/.nuget/packages/",
+        "outputPath": "/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/emilyloggins/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/bin/Debug/netcoreapp2.2/custom-types.deps.json
+/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/bin/Debug/netcoreapp2.2/custom-types.runtimeconfig.json
+/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/bin/Debug/netcoreapp2.2/custom-types.runtimeconfig.dev.json
+/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/bin/Debug/netcoreapp2.2/custom-types.dll
+/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/bin/Debug/netcoreapp2.2/custom-types.pdb
+/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/obj/Debug/netcoreapp2.2/custom-types.csprojAssemblyReference.cache
+/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/obj/Debug/netcoreapp2.2/custom-types.csproj.CoreCompileInputs.cache
+/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/obj/Debug/netcoreapp2.2/custom-types.AssemblyInfoInputs.cache
+/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/obj/Debug/netcoreapp2.2/custom-types.AssemblyInfo.cs
+/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/obj/Debug/netcoreapp2.2/custom-types.dll
+/Users/emilyloggins/workspace/backend-1/exercises/LINQ/custom-types/obj/Debug/netcoreapp2.2/custom-types.pdb
